@@ -1,0 +1,501 @@
+event_ID	data_type	num_people	num_people_v2	num_records	per_sensitive	per_sensitive_v2	dys_impact	dys_detect	cost_controls
+1	Intellectual Property	51.71	Between 30 to 60 million	49.18	19	Low	780	195	50.2
+2	Intellectual Property	51.08	Between 30 to 60 million	54.11	19	Low	276	443	48.09
+3	Identity	59.4	Between 30 to 60 million	52.94	28	Low	638	354	63.17
+4	Personal	41.91	Between 30 to 60 million	44.17	95	High	1027	793	52.05
+5	Personal	56.32	Between 30 to 60 million	57.96	4	Low	533	103	50
+6	Personal	46.01	Between 30 to 60 million	44.17	36	Low	832	216	40.65
+7	Intellectual Property	62.7	More than 60 million	65.49	100	High	1590	1034	56.7
+8	Authentication Credentials	35.36	Between 30 to 60 million	35.39	28	Low	139	347	30.35
+9	Financial	49.6	Between 30 to 60 million	47.93	95	High	265	455	51.77
+10	Health	43.91	Between 30 to 60 million	42.91	13	Low	215	620	42.06
+11	Intellectual Property	61.1	More than 60 million	60.47	100	High	374	79	58.23
+12	Identity	44.94	Between 30 to 60 million	35.39	80	High	866	158	39.52
+13	Health	61.85	More than 60 million	61.72	47	Low	309	745	57.23
+14	Financial	55.81	Between 30 to 60 million	49.18	28	Low	780	662	57.8
+15	Authentication Credentials	45.27	Between 30 to 60 million	42.91	48	Low	307	778	44.73
+16	Personal	59.51	Between 30 to 60 million	55.45	58	High	1756	312	61.34
+17	Identity	50	Between 30 to 60 million	50	88	High	232	566	36.69
+18	Intellectual Property	56.78	Between 30 to 60 million	55.45	4	Low	455	500	63.29
+19	Financial	44.02	Between 30 to 60 million	45.42	48	Low	470	273	51.73
+20	Health	72.83	More than 60 million	73.38	80	High	1007	1022	64.42
+21	Intellectual Property	47.49	Between 30 to 60 million	46.67	13	Low	184	235	61.79
+22	Financial	50.34	Between 30 to 60 million	49.18	36	Low	719	268	64.98
+23	Personal	54.33	Between 30 to 60 million	46.67	28	Low	397	693	51.24
+24	Identity	42.65	Between 30 to 60 million	45.42	69	High	1203	860	43.35
+25	Intellectual Property	48.86	Between 30 to 60 million	46.67	58	High	511	740	42.06
+26	Authentication Credentials	54.15	Between 30 to 60 million	57.96	47	Low	557	304	50
+27	Personal	29.15	Less than 30 million	34.13	4	Low	932	517	41.46
+28	Personal	39.06	Between 30 to 60 million	41.66	7	Low	811	168	55.4
+29	Authentication Credentials	54.04	Between 30 to 60 million	55.45	58	High	277	298	46.27
+30	Identity	62.07	More than 60 million	66.74	69	High	421	959	64.42
+31	Authentication Credentials	48.97	Between 30 to 60 million	49.18	7	Low	409	185	49.63
+32	Identity	38.84	Between 30 to 60 million	36.64	36	Low	515	251	41.82
+33	Intellectual Property	42.76	Between 30 to 60 million	47.93	100	High	1468	961	47.72
+34	Identity	54.04	Between 30 to 60 million	55.45	58	High	1201	36	54.88
+35	Financial	46.42	Between 30 to 60 million	37.89	2	Low	841	479	52.58
+36	Intellectual Property	63.95	More than 60 million	62.98	47	Low	836	597	58.23
+37	Identity	41.28	Between 30 to 60 million	45.42	95	High	342	499	43.32
+38	Personal	47.38	Between 30 to 60 million	44.17	28	Low	529	48	35.16
+39	Authentication Credentials	41.17	Between 30 to 60 million	42.91	2	Low	560	209	36
+40	Identity	62.59	More than 60 million	62.98	36	Low	952	385	41.91
+41	Health	49.09	Between 30 to 60 million	51.69	7	Low	658	1021	52.49
+42	Financial	49.43	Between 30 to 60 million	41.26	28	Low	618	573	52.01
+43	Personal	21.75	Less than 30 million	21.59	100	High	886	240	39.4
+44	Financial	57.63	Between 30 to 60 million	59.22	2	Low	126	506	39.8
+45	Identity	52.16	Between 30 to 60 million	59.22	58	High	146	567	51.77
+46	Identity	65.65	More than 60 million	65.86	80	High	635	415	48.47
+47	Personal	31.15	Between 30 to 60 million	32.88	100	High	334	225	36.57
+48	Financial	32.63	Between 30 to 60 million	35.39	69	High	1806	640	46.68
+49	Identity	49.49	Between 30 to 60 million	45.42	2	Low	845	584	59.93
+50	Intellectual Property	65.43	More than 60 million	65.49	58	High	1773	377	59.93
+51	Identity	67.54	More than 60 million	66.74	19	Low	423	580	55.69
+52	Intellectual Property	71.45	More than 60 million	70.49	88	High	1030	461	50
+53	Intellectual Property	43.47	Between 30 to 60 million	46.14	47	Low	590	796	50
+54	Authentication Credentials	40.42	Between 30 to 60 million	37.63	36	Low	158	861	50
+55	Identity	24.61	Less than 30 million	23.18	19	Low	748	593	50
+56	Authentication Credentials	51.21	Between 30 to 60 million	46.83	88	High	239	505	50
+57	Identity	53.06	Between 30 to 60 million	52.09	47	Low	610	520	50
+58	Identity	50.74	Between 30 to 60 million	53.4	58	High	1301	1006	50
+59	Financial	54.78	Between 30 to 60 million	54.72	95	High	956	987	50
+60	Identity	47.69	Between 30 to 60 million	56.03	47	Low	517	307	50
+61	Intellectual Property	60.93	More than 60 million	66.55	80	High	838	988	50
+62	Intellectual Property	40.42	Between 30 to 60 million	37.63	28	Low	530	889	50
+63	Identity	57.23	Between 30 to 60 million	56.03	47	Low	531	642	50
+64	Personal	37.37	Between 30 to 60 million	40.26	36	Low	689	23	50
+65	Financial	47.17	Between 30 to 60 million	45.52	95	High	1792	844	50
+66	Authentication Credentials	30.76	Between 30 to 60 million	35	80	High	582	16	50
+67	Identity	40.68	Between 30 to 60 million	42.89	47	Low	292	500	50
+68	Authentication Credentials	47.04	Between 30 to 60 million	42.89	7	Low	222	338	50
+69	Personal	44.12	Between 30 to 60 million	48.15	36	Low	768	789	50
+70	Intellectual Property	61.99	More than 60 million	66.55	13	Low	538	1088	50
+71	Financial	62.12	More than 60 million	58.66	36	Low	774	70	50
+72	Intellectual Property	56.37	Between 30 to 60 million	54.72	80	High	1496	221	50
+73	Health	49.94	Between 30 to 60 million	53.4	58	High	66	906	50
+74	Authentication Credentials	61.39	More than 60 million	59.98	28	Low	386	203	50
+75	Authentication Credentials	29.05	Less than 30 million	37.25	80	High	1046	788	50
+76	Personal	37.11	Between 30 to 60 million	35	36	Low	952	842	50
+77	Intellectual Property	61.66	More than 60 million	65.23	58	High	422	447	50
+78	Authentication Credentials	42.98	Between 30 to 60 million	43.98	19	Low	660	75	50
+79	Financial	38.85	Between 30 to 60 million	42.04	7	Low	971	304	55.49
+80	Intellectual Property	62.05	More than 60 million	63.65	13	Low	502	635	50.82
+81	Authentication Credentials	64.93	More than 60 million	66.05	80	High	989	428	65.74
+82	Intellectual Property	42.6	Between 30 to 60 million	48.04	7	Low	285	609	53.27
+83	Financial	22.87	Less than 30 million	25.7	13	Low	484	282	50.82
+84	Intellectual Property	58.71	Between 30 to 60 million	51.65	28	Low	194	901	54.34
+85	Personal	32.22	Between 30 to 60 million	33.64	88	High	481	605	53.42
+86	Identity	67.04	More than 60 million	69.98	47	Low	401	462	49.9
+87	Personal	34.76	Between 30 to 60 million	28.83	80	High	372	488	40.79
+88	Identity	46.01	Between 30 to 60 million	46.84	88	High	316	1064	50.66
+89	Personal	40.24	Between 30 to 60 million	42.04	13	Low	533	1018	52.5
+90	Personal	39.37	Between 30 to 60 million	38.44	69	High	245	482	47.3
+91	Intellectual Property	58.3	Between 30 to 60 million	57.65	69	High	946	1084	50.44
+92	Intellectual Property	43.76	Between 30 to 60 million	43.24	36	Low	102	915	48.22
+93	Identity	59.68	Between 30 to 60 million	57.65	80	High	323	267	48.22
+94	Personal	45.7	Between 30 to 60 million	55.22	47	Low	886	243	48.82
+95	Authentication Credentials	28.13	Less than 30 million	20.43	47	Low	496	347	26.25
+96	Personal	43.4	Between 30 to 60 million	44.15	58	High	1483	920	53.8
+97	Authentication Credentials	50	Between 30 to 60 million	50	47	Low	737	980	45.68
+98	Authentication Credentials	42.49	Between 30 to 60 million	45.64	7	Low	536	546	53.42
+99	Financial	49.24	Between 30 to 60 million	56.45	47	Low	126	1018	44.16
+100	Personal	40.87	Between 30 to 60 million	40.84	47	Low	103	515	40.79
+101	Personal	63.32	More than 60 million	61.25	4	Low	167	149	44.85
+102	Personal	58.71	Between 30 to 60 million	51.65	4	Low	542	117	40.03
+103	Authentication Credentials	56.68	Between 30 to 60 million	52.85	36	Low	122	850	41.02
+104	Intellectual Property	63.32	More than 60 million	61.25	58	High	1183	1052	44.16
+105	Personal	45.78	Between 30 to 60 million	42.04	28	Low	136	623	55.71
+106	Financial	49.41	Between 30 to 60 million	45.64	80	High	1578	212	36.28
+107	Financial	51.78	Between 30 to 60 million	51.65	47	Low	994	752	52.12
+108	Personal	42.37	Between 30 to 60 million	43.24	95	High	1363	14	49.9
+109	Health	67.3	More than 60 million	72.06	47	Low	585	37	56.63
+110	Identity	49.76	Between 30 to 60 million	52.85	47	Low	273	269	53.8
+111	Health	52.76	Between 30 to 60 million	57.65	47	Low	799	94	52.5
+112	Financial	44.51	Between 30 to 60 million	44.44	80	High	1589	594	42.02
+113	Intellectual Property	58.01	Between 30 to 60 million	52.76	58	High	1172	1073	48.22
+114	Intellectual Property	53.8	Between 30 to 60 million	50.45	58	High	1281	187	41.94
+115	Identity	66.95	More than 60 million	64.85	69	High	173	1069	52.19
+116	Identity	47.28	Between 30 to 60 million	44.44	58	High	1232	1001	49.52
+117	Identity	69.95	More than 60 million	69.65	88	High	95	615	57.55
+118	Authentication Credentials	41.97	Between 30 to 60 million	49.24	80	High	570	242	59.46
+119	Authentication Credentials	57.66	Between 30 to 60 million	58.85	4	Low	234	192	54.03
+120	Intellectual Property	49.41	Between 30 to 60 million	45.64	95	High	1244	357	36.35
+121	Personal	48.14	Between 30 to 60 million	48.04	47	Low	763	244	42.63
+122	Identity	62.05	More than 60 million	63.65	100	High	1782	368	51.2
+123	Authentication Credentials	43.01	Between 30 to 60 million	42.04	4	Low	973	83	42.63
+124	Intellectual Property	57.55	Between 30 to 60 million	56.45	2	Low	314	789	74.31
+125	Identity	53.8	Between 30 to 60 million	50.45	80	High	670	22	45.08
+126	Financial	34.47	Between 30 to 60 million	37.24	80	High	732	74	37.58
+127	Intellectual Property	39.14	Between 30 to 60 million	33.64	36	Low	638	270	34.6
+128	Personal	60.21	Between 30 to 60 million	54.05	47	Low	591	90	50.82
+129	Financial	34.47	Between 30 to 60 million	37.24	58	High	1311	915	45.77
+130	Intellectual Property	58.82	Between 30 to 60 million	54.05	36	Low	892	1087	57.78
+131	Intellectual Property	46.76	Between 30 to 60 million	48.04	13	Low	530	613	57.55
+132	Financial	63.32	More than 60 million	61.25	19	Low	989	241	49.9
+133	Personal	40.24	Between 30 to 60 million	42.04	36	Low	827	573	38.35
+134	Identity	41.22	Between 30 to 60 million	48.04	47	Low	355	702	57.01
+135	Intellectual Property	42.08	Between 30 to 60 million	51.65	69	High	489	970	47.3
+136	Intellectual Property	58.3	Between 30 to 60 million	57.65	69	High	1250	767	73.24
+137	Financial	48.14	Between 30 to 60 million	48.04	19	Low	770	133	56.25
+138	Personal	43.46	Between 30 to 60 million	51.65	19	Low	807	769	42.86
+139	Intellectual Property	58.18	Between 30 to 60 million	55.25	80	High	869	237	66.12
+140	Financial	53.94	Between 30 to 60 million	51.41	2	Low	616	1057	41.71
+141	Health	58.18	Between 30 to 60 million	55.25	80	High	1131	22	45.46
+142	Intellectual Property	48.89	Between 30 to 60 million	49.24	100	High	51	934	51.74
+143	Personal	50	Between 30 to 60 million	50	48	Low	558	1027	50
+144	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	672	653	50
+145	Health	54.63	Between 30 to 60 million	55.97	58	High	193	563	50
+146	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	910	294	50
+147	Personal	50	Between 30 to 60 million	50	48	Low	548	821	50
+148	Personal	50	Between 30 to 60 million	50	48	Low	238	421	50
+149	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	414	657	50
+150	Financial	50	Between 30 to 60 million	50	48	Low	497	1066	50
+151	Financial	50	Between 30 to 60 million	50	13	Low	959	1002	50
+152	Personal	49.08	Between 30 to 60 million	54.69	88	High	321	874	50
+153	Authentication Credentials	56.89	Between 30 to 60 million	54.69	69	High	927	933	50
+154	Financial	55.91	Between 30 to 60 million	50.94	80	High	361	1076	50
+155	Financial	50	Between 30 to 60 million	50	48	Low	948	901	50
+156	Identity	50.26	Between 30 to 60 million	47.19	80	High	95	227	50
+157	Intellectual Property	55.91	Between 30 to 60 million	50.94	58	High	1335	948	50
+158	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	166	610	50
+159	Financial	50	Between 30 to 60 million	50	48	Low	374	835	50
+160	Financial	44.48	Between 30 to 60 million	40.93	58	High	552	723	50
+161	Financial	50	Between 30 to 60 million	50	48	Low	507	411	50
+162	Financial	50	Between 30 to 60 million	50	48	Low	214	434	50
+163	Identity	64.32	More than 60 million	68.79	100	High	1681	456	50
+164	Personal	25.17	Less than 30 million	35.83	36	Low	492	1026	50
+165	Financial	50	Between 30 to 60 million	50	48	Low	204	593	50
+166	Health	53.18	Between 30 to 60 million	58.45	80	High	129	499	50
+167	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	440	1083	50
+168	Financial	31.61	Between 30 to 60 million	33.43	4	Low	421	808	50
+169	Intellectual Property	55.58	Between 30 to 60 million	59.7	80	High	1331	79	50
+170	Personal	12.96	Less than 30 million	19.67	47	Low	535	188	50
+171	Financial	50	Between 30 to 60 million	50	48	Low	428	365	50
+172	Health	51.1	Between 30 to 60 million	48.44	7	Low	867	257	50
+173	Identity	43.04	Between 30 to 60 million	43.43	28	Low	708	664	50
+174	Authentication Credentials	41.04	Between 30 to 60 million	39.31	47	Low	265	398	50
+175	Identity	42.2	Between 30 to 60 million	42.18	58	High	927	503	50
+176	Identity	64.36	More than 60 million	63.45	19	Low	813	839	50
+177	Intellectual Property	52.92	Between 30 to 60 million	53.44	13	Low	367	162	50
+178	Intellectual Property	47.98	Between 30 to 60 million	48.44	48	Low	497	434	50
+179	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	733	748	50
+180	Personal	50	Between 30 to 60 million	50	48	Low	857	243	50
+181	Identity	55.45	Between 30 to 60 million	57.19	95	High	835	370	50
+182	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	113	624	50
+183	Authentication Credentials	53.78	Between 30 to 60 million	43.16	80	High	458	24	50
+184	Identity	51.1	Between 30 to 60 million	48.44	47	Low	209	295	50
+185	Personal	50	Between 30 to 60 million	50	2	Low	670	102	50
+186	Intellectual Property	57.99	Between 30 to 60 million	60.95	95	High	324	444	50
+187	Financial	56.76	Between 30 to 60 million	52.19	19	Low	807	684	50
+188	Financial	54.35	Between 30 to 60 million	50.94	7	Low	881	10	50
+189	Financial	50	Between 30 to 60 million	50	48	Low	176	993	50
+190	Identity	54.35	Between 30 to 60 million	50.94	7	Low	569	17	50
+191	Personal	50	Between 30 to 60 million	50	48	Low	721	1033	50
+192	Authentication Credentials	44.61	Between 30 to 60 million	43.43	36	Low	486	727	50
+193	Personal	50	Between 30 to 60 million	50	58	High	1461	1092	50
+194	Identity	40.64	Between 30 to 60 million	42.18	58	High	491	1088	50
+195	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	865	237	50
+196	Intellectual Property	50.64	Between 30 to 60 million	54.69	58	High	863	942	50
+197	Intellectual Property	49.8	Between 30 to 60 million	53.44	4	Low	244	399	50
+198	Personal	50	Between 30 to 60 million	50	48	Low	600	187	50
+199	Intellectual Property	51.36	Between 30 to 60 million	53.44	36	Low	315	957	50
+200	Intellectual Property	51.95	Between 30 to 60 million	49.69	88	High	789	839	50
+201	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	600	428	50
+202	Intellectual Property	55.16	Between 30 to 60 million	52.13	80	High	1614	666	50
+203	Identity	64.94	More than 60 million	59.7	88	High	887	111	50
+204	Financial	50	Between 30 to 60 million	50	48	Low	692	258	50
+205	Financial	50	Between 30 to 60 million	50	48	Low	731	145	50
+206	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	549	958	50
+207	Health	53.51	Between 30 to 60 million	49.69	36	Low	618	1088	50
+208	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	136	90	50
+209	Financial	50	Between 30 to 60 million	50	48	Low	916	432	50
+210	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	311	382	50
+211	Intellectual Property	66.33	More than 60 million	71.77	7	Low	546	478	50
+212	Financial	50	Between 30 to 60 million	50	48	Low	134	223	50
+213	Intellectual Property	61.24	More than 60 million	63.45	80	High	126	932	50
+214	Financial	50	Between 30 to 60 million	50	48	Low	784	87	50
+215	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	585	47	50
+216	Financial	50	Between 30 to 60 million	50	48	Low	629	364	50
+217	Financial	50	Between 30 to 60 million	50	36	Low	136	626	50
+218	Health	63.51	More than 60 million	62.2	100	High	1428	650	50
+219	Identity	50.26	Between 30 to 60 million	47.19	36	Low	816	951	50
+220	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	431	568	50
+221	Intellectual Property	60.26	Between 30 to 60 million	59.7	95	High	1756	274	50
+222	Financial	50	Between 30 to 60 million	50	48	Low	201	874	50
+223	Identity	66.89	More than 60 million	67.2	28	Low	462	762	50
+224	Financial	50	Between 30 to 60 million	50	48	Low	434	725	50
+225	Authentication Credentials	44.35	Between 30 to 60 million	38.43	7	Low	756	294	50
+226	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	697	895	50
+227	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	417	192	50
+228	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	491	93	50
+229	Financial	50	Between 30 to 60 million	50	48	Low	249	726	50
+230	Identity	44.61	Between 30 to 60 million	43.43	58	High	939	606	50
+231	Financial	47.85	Between 30 to 60 million	45.94	28	Low	758	781	50
+232	Financial	52.66	Between 30 to 60 million	48.44	47	Low	931	426	50
+233	Personal	46.88	Between 30 to 60 million	42.18	36	Low	671	993	50
+234	Financial	63.77	More than 60 million	67.2	95	High	322	314	50
+235	Financial	35.96	Between 30 to 60 million	42.18	69	High	476	694	50
+236	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	742	734	50
+237	Personal	30.64	Between 30 to 60 million	29.67	48	Low	702	1001	50
+238	Financial	50	Between 30 to 60 million	50	48	Low	863	930	50
+239	Personal	44.86	Between 30 to 60 million	48.44	69	High	84	1029	50
+240	Financial	45.45	Between 30 to 60 million	44.68	19	Low	417	776	50
+241	Personal	50	Between 30 to 60 million	50	48	Low	775	994	50
+242	Financial	50	Between 30 to 60 million	50	48	Low	302	591	50
+243	Financial	40.51	Between 30 to 60 million	39.68	28	Low	316	731	50
+244	Intellectual Property	57.27	Between 30 to 60 million	62.2	7	Low	863	1080	50
+245	Authentication Credentials	50	Between 30 to 60 million	50	88	High	188	567	50
+246	Financial	50	Between 30 to 60 million	50	48	Low	894	741	50
+247	Identity	41.3	Between 30 to 60 million	43.16	69	High	170	569	50
+248	Intellectual Property	61.82	More than 60 million	59.7	4	Low	494	831	50
+249	Personal	50	Between 30 to 60 million	50	48	Low	179	55	50
+250	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	336	295	50
+251	Financial	30.76	Between 30 to 60 million	32.17	36	Low	813	390	50
+252	Personal	50	Between 30 to 60 million	50	48	Low	749	134	50
+253	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	760	547	50
+254	Personal	50.26	Between 30 to 60 million	47.19	47	Low	350	1091	50
+255	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	803	643	50
+256	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	345	926	50
+257	Personal	50	Between 30 to 60 million	50	48	Low	559	658	50
+258	Intellectual Property	41.48	Between 30 to 60 million	43.43	88	High	1477	716	50
+259	Identity	48.57	Between 30 to 60 million	44.68	36	Low	914	846	50
+260	Financial	50	Between 30 to 60 million	50	48	Low	213	284	50
+261	Financial	61.95	More than 60 million	62.2	7	Low	118	227	50
+262	Personal	40.18	Between 30 to 60 million	48.44	48	Low	616	256	50
+263	Financial	50	Between 30 to 60 million	50	48	Low	112	931	50
+264	Personal	50	Between 30 to 60 million	50	80	High	1459	201	50
+265	Financial	48.05	Between 30 to 60 million	50.85	4	Low	237	1068	50
+266	Personal	50	Between 30 to 60 million	50	48	Low	1092	626	50
+267	Personal	50	Between 30 to 60 million	50	48	Low	164	801	50
+268	Financial	50	Between 30 to 60 million	50	48	Low	1139	441	50
+269	Financial	50	Between 30 to 60 million	50	48	Low	87	742	50
+270	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	485	850	50
+271	Financial	50	Between 30 to 60 million	50	48	Low	1131	854	50
+272	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	304	574	50
+273	Financial	50	Between 30 to 60 million	50	48	Low	494	353	50
+274	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	73	1089	50
+275	Identity	52.21	Between 30 to 60 million	54.69	36	Low	786	5	50
+276	Personal	50	Between 30 to 60 million	50	48	Low	212	56	50
+277	Authentication Credentials	50	Between 30 to 60 million	50	48	Low	573	20	50
+278	Personal	50	Between 30 to 60 million	50	48	Low	1781	115	50
+279	Intellectual Property	55.54	Between 30 to 60 million	63.9	28	Low	245	473	61.79
+280	Intellectual Property	50.24	Between 30 to 60 million	48.58	2	Low	362	108	47.56
+281	Financial	48.97	Between 30 to 60 million	53.69	58	High	1442	237	42.78
+282	Personal	44.3	Between 30 to 60 million	51.13	28	Low	892	668	62.51
+283	Health	61.11	More than 60 million	53.69	80	High	369	781	39.5
+284	Authentication Credentials	50.62	Between 30 to 60 million	56.24	88	High	1290	584	67.05
+285	Identity	66.16	More than 60 million	63.9	58	High	772	699	46.39
+286	Financial	55.17	Between 30 to 60 million	56.24	47	Low	983	760	52.1
+287	Health	62.31	More than 60 million	62.62	2	Low	517	969	67.05
+288	Personal	34.19	Between 30 to 60 million	30.71	47	Low	948	879	44.74
+289	Identity	64.65	More than 60 million	63.9	88	High	342	254	39.16
+290	Intellectual Property	47.9	Between 30 to 60 million	47.31	19	Low	451	838	48.6
+291	Financial	30.43	Between 30 to 60 million	24.86	58	High	1058	546	41.01
+292	Identity	57.36	Between 30 to 60 million	54.93	58	High	413	636	42.89
+293	Personal	31.48	Between 30 to 60 million	21.77	36	Low	570	522	41.96
+294	Identity	52.7	Between 30 to 60 million	52.41	47	Low	565	1049	61.56
+295	Intellectual Property	72.48	More than 60 million	69.01	58	High	440	240	45.8
+296	Personal	56.81	Between 30 to 60 million	58.79	7	Low	871	674	56.55
+297	Personal	60.79	More than 60 million	62.62	58	High	1487	284	64.11
+298	Intellectual Property	53.53	Between 30 to 60 million	53.69	36	Low	453	943	50
+299	Personal	40.76	Between 30 to 60 million	40.92	2	Low	193	148	45.58
+300	Intellectual Property	51.06	Between 30 to 60 million	49.86	7	Low	870	970	41.15
+301	Intellectual Property	47.21	Between 30 to 60 million	48.58	88	High	703	534	41.27
+302	Authentication Credentials	66.98	More than 60 million	65.18	13	Low	756	857	51.31
+303	Intellectual Property	41.58	Between 30 to 60 million	42.2	36	Low	896	662	53.39
+304	Financial	46.63	Between 30 to 60 million	52.41	36	Low	929	693	58.54
+305	Intellectual Property	43.6	Between 30 to 60 million	52.41	36	Low	649	882	56.33
+306	Health	49.67	Between 30 to 60 million	52.41	80	High	48	459	47.31
+307	Authentication Credentials	44.62	Between 30 to 60 million	42.2	7	Low	132	665	62.51
+308	Identity	44.05	Between 30 to 60 million	46.03	47	Low	303	188	45.71
+309	Financial	41.58	Between 30 to 60 million	42.2	36	Low	873	589	41.96
+310	Health	58.9	Between 30 to 60 million	54.96	69	High	288	219	49.44
+311	Health	60.42	Between 30 to 60 million	54.96	47	Low	373	364	43.59
+312	Personal	50	Between 30 to 60 million	50	19	Low	641	33	50
+313	Intellectual Property	49.29	Between 30 to 60 million	44.75	47	Low	925	93	44.4
+314	Health	53.53	Between 30 to 60 million	53.69	47	Low	665	541	67.05
+315	Identity	49.17	Between 30 to 60 million	42.2	28	Low	701	124	66.57
+316	Financial	50.24	Between 30 to 60 million	48.58	28	Low	500	305	39.98
+317	Intellectual Property	53.65	Between 30 to 60 million	56.24	58	High	229	117	44.4
+318	Intellectual Property	40.07	Between 30 to 60 million	42.2	19	Low	374	749	41.63
+319	Financial	44.37	Between 30 to 60 million	37.09	95	High	1709	973	51.85
+320	Identity	55.74	Between 30 to 60 million	52.41	2	Low	447	97	45.46
+321	Personal	28.7	Less than 30 million	26.88	19	Low	717	1045	42.44
+322	Intellectual Property	56.56	Between 30 to 60 million	53.69	13	Low	661	353	67.05
+323	Authentication Credentials	47.46	Between 30 to 60 million	53.69	47	Low	450	479	50
+324	Personal	56.31	Between 30 to 60 million	48.58	95	High	238	543	42.19
+325	Intellectual Property	36.09	Between 30 to 60 million	38.37	69	High	1573	78	41.4
+326	Financial	53.53	Between 30 to 60 million	53.69	28	Low	644	834	53.5
+327	Financial	48.85	Between 30 to 60 million	51.13	13	Low	977	523	47.54
+328	Intellectual Property	64.52	More than 60 million	61.35	88	High	1761	620	50.11
+329	Authentication Credentials	64.4	More than 60 million	58.09	69	High	1489	77	44.79
+330	Financial	64.01	More than 60 million	64.04	19	Low	732	386	52.91
+331	Health	54.96	Between 30 to 60 million	58.09	47	Low	596	1083	53.4
+332	Financial	31.44	Between 30 to 60 million	30.71	95	High	1102	446	49.29
+333	Financial	38.51	Between 30 to 60 million	37.85	69	High	161	772	47.6
+334	Authentication Credentials	66.92	More than 60 million	68.81	7	Low	969	150	58.96
+335	Personal	43.75	Between 30 to 60 million	39.8	88	High	1159	367	53.81
+336	Authentication Credentials	53.61	Between 30 to 60 million	58.09	36	Low	309	764	51.97
+337	Identity	59.01	Between 30 to 60 million	58.09	36	Low	974	249	65.66
+338	Authentication Credentials	58.06	Between 30 to 60 million	52.14	100	High	1256	2	51.15
+339	Identity	58.39	Between 30 to 60 million	59.28	2	Low	597	417	57.58
+340	Personal	49.13	Between 30 to 60 million	48.57	47	Low	733	697	52.75
+341	Identity	47.67	Between 30 to 60 million	46.19	47	Low	739	907	63.08
+342	Authentication Credentials	35.59	Between 30 to 60 million	33.09	47	Low	841	615	34.14
+343	Authentication Credentials	49.01	Between 30 to 60 million	46.19	47	Low	957	594	44.71
+344	Financial	46.7	Between 30 to 60 million	45.9	7	Low	612	550	47.83
+345	Intellectual Property	58.28	Between 30 to 60 million	56.9	28	Low	752	333	23.56
+346	Intellectual Property	45.08	Between 30 to 60 million	48.57	28	Low	646	888	46.89
+347	Authentication Credentials	59.52	Between 30 to 60 million	54.52	28	Low	980	297	44.46
+348	Health	59.23	Between 30 to 60 million	62.85	58	High	851	313	44.13
+349	Financial	39.02	Between 30 to 60 million	34.28	80	High	805	1046	35.11
+350	Identity	32.79	Between 30 to 60 million	30.71	47	Low	619	711	56.31
+351	Authentication Credentials	49.13	Between 30 to 60 million	48.57	13	Low	127	391	46.66
+352	Identity	33.51	Between 30 to 60 million	31.9	58	High	1469	526	24.56
+353	Identity	41.94	Between 30 to 60 million	39.04	58	High	1063	1012	43.33
+354	Authentication Credentials	50	Between 30 to 60 million	50	7	Low	644	371	49.06
+355	Health	49.74	Between 30 to 60 million	47.38	19	Low	771	930	33.65
+356	Financial	55.87	Between 30 to 60 million	48.57	19	Low	825	916	50.11
+357	Personal	47.67	Between 30 to 60 million	46.19	4	Low	116	206	44.31
+358	Identity	62.04	More than 60 million	65.23	28	Low	174	911	66.22
+359	Identity	59.96	Between 30 to 60 million	64.04	88	High	418	525	52.68
+360	Identity	46.82	Between 30 to 60 million	42.62	36	Low	980	379	43.74
+361	Identity	39.46	Between 30 to 60 million	43.81	47	Low	859	723	38.02
+362	Financial	41.32	Between 30 to 60 million	40.23	36	Low	923	730	52.84
+363	Authentication Credentials	30.53	Between 30 to 60 million	40.23	69	High	1119	503	53.17
+364	Intellectual Property	64.4	More than 60 million	58.09	95	High	1210	625	47.52
+365	Authentication Credentials	33.29	Between 30 to 60 million	27.14	58	High	708	799	38.99
+366	Financial	43.18	Between 30 to 60 million	36.66	95	High	525	1079	35.67
+367	Intellectual Property	56.49	Between 30 to 60 million	47.38	47	Low	526	149	47.6
+368	Identity	40.7	Between 30 to 60 million	41.42	95	High	974	79	42.52
+369	Intellectual Property	46.29	Between 30 to 60 million	48.34	28	Low	104	547	63
+370	Financial	50	Between 30 to 60 million	50	7	Low	787	274	50
+371	Intellectual Property	39.24	Between 30 to 60 million	39.04	36	Low	417	994	33.91
+372	Personal	64.12	More than 60 million	66.43	36	Low	672	227	57.58
+373	Intellectual Property	53.39	Between 30 to 60 million	53.33	2	Low	492	24	52.76
+374	Personal	35.2	Between 30 to 60 million	39.04	47	Low	797	553	43.41
+375	Financial	39.86	Between 30 to 60 million	37.85	80	High	1548	358	44.46
+376	Intellectual Property	53.5	Between 30 to 60 million	55.71	7	Low	133	333	45.58
+377	Personal	45.81	Between 30 to 60 million	49.76	19	Low	834	821	49.46
+378	Identity	55.98	Between 30 to 60 million	50.95	95	High	1678	198	53.17
+379	Identity	53.79	Between 30 to 60 million	47.38	2	Low	831	867	59.86
+380	Personal	61.09	More than 60 million	59.28	13	Low	316	1085	71.86
+381	Authentication Credentials	50	Between 30 to 60 million	50	7	Low	921	683	38.58
+382	Intellectual Property	58.5	Between 30 to 60 million	61.66	80	High	217	727	50.74
+383	Intellectual Property	60.96	More than 60 million	56.87	28	Low	191	16	60.42
+384	Identity	59.34	Between 30 to 60 million	65.23	19	Low	295	161	57.58
+385	Identity	47.55	Between 30 to 60 million	43.81	4	Low	827	822	65.35
+386	Intellectual Property	53.28	Between 30 to 60 million	50.95	95	High	465	502	39.22
+387	Identity	47.78	Between 30 to 60 million	48.57	58	High	1513	848	46.81
+388	Personal	39.75	Between 30 to 60 million	35.47	7	Low	121	1017	47.68
+389	Financial	44.97	Between 30 to 60 million	46.19	47	Low	593	400	42.62
+390	Authentication Credentials	40.42	Between 30 to 60 million	49.76	19	Low	879	740	61.8
+391	Identity	38.85	Between 30 to 60 million	45	95	High	99	15	66.37
+392	Authentication Credentials	52.77	Between 30 to 60 million	54.52	80	High	704	109	47.04
+393	Financial	49.85	Between 30 to 60 million	49.76	36	Low	753	594	47.22
+394	Personal	49.74	Between 30 to 60 million	47.38	36	Low	990	259	43.33
+395	Identity	56.42	Between 30 to 60 million	60.47	47	Low	511	155	47.6
+396	Intellectual Property	59.96	Between 30 to 60 million	64.04	69	High	1124	182	41.8
+397	Health	34.58	Between 30 to 60 million	40.23	28	Low	163	619	66.78
+398	Health	51.09	Between 30 to 60 million	47.38	80	High	1041	730	45.51
+399	Intellectual Property	54.3	Between 30 to 60 million	47.5	36	Low	366	94	50
+400	Financial	54.62	Between 30 to 60 million	50.54	13	Low	800	309	50
+401	Identity	52.63	Between 30 to 60 million	47.74	69	High	187	262	50
+402	Authentication Credentials	45.97	Between 30 to 60 million	43.54	19	Low	905	111	50
+403	Financial	50.56	Between 30 to 60 million	50	47	Low	682	187	50
+404	Personal	70.07	More than 60 million	64.55	36	Low	679	900	50
+405	Personal	41.31	Between 30 to 60 million	42.13	28	Low	353	735	50
+406	Authentication Credentials	53.93	Between 30 to 60 million	54.74	80	High	1444	584	50
+407	Identity	40.83	Between 30 to 60 million	43.19	100	High	1639	56	50
+408	Personal	54.62	Between 30 to 60 million	50.54	58	High	1519	228	50
+409	Intellectual Property	66.55	More than 60 million	67.35	69	High	311	993	50
+410	Personal	34.35	Between 30 to 60 million	32.33	80	High	395	59	50
+411	Financial	37.94	Between 30 to 60 million	47.74	47	Low	510	8	50
+412	Intellectual Property	50.1	Between 30 to 60 million	51.94	28	Low	583	297	50
+413	Intellectual Property	44.29	Between 30 to 60 million	46.34	36	Low	241	712	50
+414	Authentication Credentials	53.93	Between 30 to 60 million	54.74	95	High	201	394	50
+415	Intellectual Property	67.09	More than 60 million	60.35	36	Low	348	290	50
+416	Intellectual Property	61.28	More than 60 million	54.74	69	High	540	805	50
+417	Financial	37.63	Between 30 to 60 million	42.13	95	High	541	335	50
+418	Identity	72.01	More than 60 million	77.63	95	High	1447	951	50
+419	Intellectual Property	43.45	Between 30 to 60 million	47.74	47	Low	118	583	50
+420	Financial	36.03	Between 30 to 60 million	29.53	69	High	1623	251	50
+421	Personal	49.5	Between 30 to 60 million	40.73	19	Low	566	873	50
+422	Financial	50	Between 30 to 60 million	50	100	High	1777	846	50
+423	Personal	41.85	Between 30 to 60 million	35.13	47	Low	737	1051	50
+424	Intellectual Property	54.5	Between 30 to 60 million	50.37	19	Low	899	886	50
+425	Personal	70.59	More than 60 million	70.46	88	High	1159	943	50
+426	Financial	32.81	Between 30 to 60 million	37.93	69	High	1630	518	50
+427	Authentication Credentials	40.46	Between 30 to 60 million	43.54	13	Low	791	476	50
+428	Authentication Credentials	55.76	Between 30 to 60 million	54.74	28	Low	614	162	50
+429	Authentication Credentials	54.62	Between 30 to 60 million	50.54	69	High	1263	669	50
+430	Identity	51.79	Between 30 to 60 million	49.14	36	Low	796	532	50
+431	Personal	43.14	Between 30 to 60 million	42.13	19	Low	192	1070	50
+432	Personal	43.99	Between 30 to 60 million	40.73	95	High	533	1078	50
+433	Intellectual Property	45.82	Between 30 to 60 million	40.73	58	High	985	199	50
+434	Identity	46.13	Between 30 to 60 million	46.34	69	High	1240	551	50
+435	Financial	61.12	More than 60 million	51.94	19	Low	279	613	50
+436	Financial	45.13	Between 30 to 60 million	44.94	7	Low	149	429	50
+437	Identity	42.15	Between 30 to 60 million	40.73	13	Low	711	672	50
+438	Health	51.25	Between 30 to 60 million	56.14	95	High	1393	621	50
+439	Identity	55.07	Between 30 to 60 million	58.94	95	High	1640	456	50
+440	Identity	52.63	Between 30 to 60 million	47.74	7	Low	129	451	50
+441	Authentication Credentials	39.62	Between 30 to 60 million	44.94	28	Low	160	166	50
+442	Financial	44.68	Between 30 to 60 million	36.53	69	High	1714	613	50
+443	Intellectual Property	57.45	Between 30 to 60 million	51.94	69	High	290	960	50
+444	Authentication Credentials	51.24	Between 30 to 60 million	45.78	4	Low	983	2	50
+445	Financial	24.71	Less than 30 million	23.92	28	Low	563	93	50
+446	Health	35.49	Between 30 to 60 million	36.53	69	High	615	952	50
+447	Health	53.58	Between 30 to 60 million	50.4	2	Low	577	627	46.21
+448	Intellectual Property	56.58	Between 30 to 60 million	61.01	69	High	497	326	52.68
+449	Personal	50.8	Between 30 to 60 million	40.15	88	High	928	128	28.8
+450	Intellectual Property	40.76	Between 30 to 60 million	50.58	58	High	773	855	48.79
+451	Intellectual Property	57.93	Between 30 to 60 million	55.05	69	High	1664	834	43.85
+452	Financial	59.55	Between 30 to 60 million	55.05	58	High	1503	972	45.12
+453	Intellectual Property	41.91	Between 30 to 60 million	44.29	28	Low	337	866	61.83
+454	Identity	57.85	Between 30 to 60 million	54.9	95	High	368	660	50.04
+455	Authentication Credentials	52.21	Between 30 to 60 million	53.56	88	High	1026	90	47.53
+456	Financial	33.76	Between 30 to 60 million	38.66	95	High	1780	846	43.43
+457	Health	59.68	Between 30 to 60 million	58.03	28	Low	899	470	61.21
+458	Intellectual Property	52.07	Between 30 to 60 million	50.58	88	High	228	456	49.01
+459	Health	63.05	More than 60 million	61.01	80	High	815	222	63.62
+460	Identity	41.84	Between 30 to 60 million	38.66	80	High	1513	827	68.61
+461	Identity	32.61	Between 30 to 60 million	31.21	0	Low	237	126	48.34
+462	Financial	50.72	Between 30 to 60 million	56.54	13	Low	283	339	51.97
+463	Personal	49.58	Between 30 to 60 million	49.09	47	Low	146	912	50.55
+464	Intellectual Property	58.07	Between 30 to 60 million	58.03	95	High	749	1020	52.25
+465	Intellectual Property	54.57	Between 30 to 60 million	52.07	19	Low	344	302	51.9
+466	Personal	24.66	Less than 30 million	34.19	80	High	1017	494	44.35
+467	Intellectual Property	31.26	Between 30 to 60 million	37.17	80	High	484	373	48.91
+468	Identity	52.34	Between 30 to 60 million	56.54	95	High	742	473	49.33
+469	Financial	48.57	Between 30 to 60 million	44.62	19	Low	534	74	55.08
+470	Health	56.45	Between 30 to 60 million	58.03	100	High	574	169	48.19
+471	Financial	50.32	Between 30 to 60 million	47.6	80	High	552	176	49.65
+472	Authentication Credentials	56.92	Between 30 to 60 million	50.58	19	Low	288	262	49.17
+473	Financial	45.07	Between 30 to 60 million	38.66	58	High	790	135	38.77
+474	Identity	66.68	More than 60 million	69.95	80	High	406	353	44.13
+475	Authentication Credentials	50.93	Between 30 to 60 million	43.13	47	Low	113	466	58.49
+476	Financial	50.72	Between 30 to 60 million	56.54	95	High	1429	1056	57.54
+477	Identity	61.91	More than 60 million	53.56	7	Low	463	257	60.5
+478	Identity	55.17	Between 30 to 60 million	47.6	88	High	1638	352	54.42
+479	Personal	42.72	Between 30 to 60 million	40.15	47	Low	574	258	45.84
+480	Authentication Credentials	33.01	Between 30 to 60 million	40.15	36	Low	439	1057	52.62
+481	Identity	35.57	Between 30 to 60 million	44.5	28	Low	794	750	35.43
+482	Intellectual Property	49.46	Between 30 to 60 million	44.29	28	Low	171	105	49.29
+483	Identity	64.93	More than 60 million	66.97	19	Low	247	722	49.6
+484	Authentication Credentials	57.06	Between 30 to 60 million	53.56	69	High	951	845	48.68
+485	Personal	51.94	Between 30 to 60 million	47.6	58	High	856	603	50.2
+486	Health	45.74	Between 30 to 60 million	53.56	100	High	831	1087	57.01
+487	Financial	44.75	Between 30 to 60 million	39.26	88	High	663	817	46.87
+488	Identity	36.72	Between 30 to 60 million	32.7	69	High	1135	720	50.93
+489	Personal	43.59	Between 30 to 60 million	41.64	95	High	1429	804	50.59
+490	Financial	36.11	Between 30 to 60 million	37.17	28	Low	594	501	41.46
+491	Financial	35.98	Between 30 to 60 million	34.19	58	High	1254	778	41.83
+492	Personal	46.22	Between 30 to 60 million	46.11	58	High	1090	1077	27.7
+493	Health	36.59	Between 30 to 60 million	29.72	13	Low	167	863	57.83
+494	Financial	50	Between 30 to 60 million	50	48	Low	686	574	55.88
+495	Identity	57.95	Between 30 to 60 million	59.11	80	High	1113	1057	62.02
+496	Authentication Credentials	35.7	Between 30 to 60 million	38.22	28	Low	116	682	41.86
+497	Identity	60.92	More than 60 million	59.11	69	High	1752	543	49.7
+498	Financial	37.51	Between 30 to 60 million	34.88	28	Low	116	882	38.28
+499	Identity	37.68	Between 30 to 60 million	37.39	13	Low	873	163	46.68
+500	Financial	46.89	Between 30 to 60 million	44.9	88	High	363	359	44.64
