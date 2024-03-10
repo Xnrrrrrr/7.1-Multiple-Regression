@@ -1,10 +1,6 @@
 # Install and load necessary packages
-if (!requireNamespace("leaps", quietly = TRUE)) {
-  install.packages("leaps")
-}
-if (!requireNamespace("car", quietly = TRUE)) {
-  install.packages("car")
-}
+install.packages("leaps")
+install.packages("car")
 
 # Load required packages
 library(leaps)
@@ -12,6 +8,19 @@ library(car)
 
 # Read data into a dataframe named cyberData
 cyberData <- read.delim("lab 7 sra 365 wc-1.dat")
+
+# Read the data into a table
+cyberData <- read.table("lab 7 sra 365 wc-1.dat", header = TRUE, sep = "\t")
+
+# Display the structure of the dataframe
+str(cyberData)
+
+# Convert selected variables to factors, tells R it is categorical
+cyberData$event_ID <- factor(cyberData$event_ID)
+cyberData$data_type <- factor(cyberData$data_type)
+cyberData$num_people_v2 <- factor(cyberData$num_people_v2)
+cyberData$per_sensitive_v2 <- factor(cyberData$per_sensitive_v2)
+
 
 # Use the best subsets approach to determine the best predictors for cost_controls
 bestsubsets <- regsubsets(cost_controls ~ num_people + num_records + per_sensitive + dys_impact + dys_detect, data = cyberData, nbest = 1)
